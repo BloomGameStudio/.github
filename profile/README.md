@@ -6,6 +6,6 @@ Bloom believes a Decentralized Studio can be the greatest manifestation of this 
 
 Accordingly, Bloom encourages both experienced veterans & newcoming learners to try their hand at whatever creative or technical roles catch their eye. If you are struggling to find your place or get momentum, reach out to core team members and we'll guide you along the way.
 
-Perhaps best of all, this culture is meant to reward everyone in a way correlated to their effort and passion. Jobs, grants, and various other opportunities await the passionate and visionary.
+Perhaps best of all, this culture is meant to reward everyone in a way correlated to their effort and passion. Recurring contributorship roles, bounties and various other opportunities await the passionate and visionary.
 
 **Welcome to Bloom!**

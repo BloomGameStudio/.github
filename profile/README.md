@@ -4,7 +4,7 @@ Bloom is built around a fundamental belief that passion is the greatest heuristi
 
 Bloom believes a Decentralized Studio can be the greatest manifestation of this phenomena seen to date. Passionate creatives can come together to disperse information, help each other, and build upon each other's strengths. This has never been so trivially possible as in today's age of internet, with decentralized information protocols, and the growing bond of younger generations striving to guide the future with collaboration.
 
-Accordingly, Bloom encourages both experienced veterans & newcoming learners to try their hand at whatever creative or technical role's catch their eye. If you are struggling to find your place or get momentum, reach out to core team members and we'll guide you along the way.
+Accordingly, Bloom encourages both experienced veterans & newcoming learners to try their hand at whatever creative or technical roles catch their eye. If you are struggling to find your place or get momentum, reach out to core team members and we'll guide you along the way.
 
 Perhaps best of all, this culture is meant to reward everyone in a way correlated to their effort and passion. Jobs, grants, and various other opportunities await the passionate and visionary.
 

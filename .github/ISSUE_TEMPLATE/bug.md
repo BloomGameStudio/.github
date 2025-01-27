@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: 🐛 Bug
 about: Report a bug or unexpected behavior
 title: "[BUG] "
 type: bug

@@ -1,6 +1,6 @@
 ---
 name: 🦾 Feature
-about: A new feature or improvement on existing functionality
+about: Feature or improvement on existing functionality
 title: ""
 type: feature
 ---

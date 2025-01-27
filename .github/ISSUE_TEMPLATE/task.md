@@ -1,5 +1,5 @@
 ---
-name: Task
+name: 🏗️ Task
 about: Task that needs to be completed
 title: "[TASK] "
 type: task

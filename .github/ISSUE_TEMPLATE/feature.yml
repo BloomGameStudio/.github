@@ -2,21 +2,19 @@ name: "🦾 Feature"
 description: "Feature or improvement on existing functionality"
 type: "feature"
 body:
-- type: input
+- type: textarea
   id: description
   attributes:
     label: "Description"
     description: "A clear and concise description of the desired feature/changes."
-    placeholder: "Write a short description of the feature."
   validations:
     required: true
-- type: input
+- type: textarea
   id: scope
   attributes:
     label: "Scope"
-    description: "Describe the scope of the requested feature/changes."
-    placeholder: "Provide some limitations so it's clear when this issue should be considered complete."
-- type: input
+    description: "Provide some limitations so it's clear when this issue should be considered complete."
+- type: textarea
   id: context
   attributes:
     label: "Additional context"

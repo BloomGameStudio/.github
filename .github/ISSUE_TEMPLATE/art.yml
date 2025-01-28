@@ -1,5 +1,6 @@
 name: "🎨 Art"
 description: "New or updated art asset"
+title: "[ART] "
 type: "feature"
 labels: "art"
 body:

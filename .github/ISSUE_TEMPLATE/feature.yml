@@ -4,7 +4,7 @@ type: "feature"
 body:
 - type: input
   id: description
-  require: true
+  required: true
   attributes:
     label: "Description"
     description: "A clear and concise description of the desired feature/changes."

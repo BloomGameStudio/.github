@@ -1,0 +1,28 @@
+name: 🦾 Feature
+about: Feature or improvement on existing functionality
+title: ""
+type: feature
+body:
+  - type: input
+    id: description
+    require: true
+    attributes:
+      label: "Description"
+      description: "A clear and concise description of the desired feature/changes."
+      placeholder: "Write a short description of the feature."
+  - type: input
+    id: scope
+    attributes:
+      label: "Scope"
+      description: "Describe the scope of the requested feature/changes."
+      placeholder: "Provide some limitations so it's clear when this issue should be considered complete."
+  - type: input
+    id: context
+    attributes:
+      label: "Additional context"
+      description: "Add any other context about the feature/changes here."
+project:
+  name: "All Hands 🧙‍♂️"
+  fields:
+    Status: "Backlog"
+    Readiness: "Missing Estimate"

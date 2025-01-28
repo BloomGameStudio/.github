@@ -29,4 +29,4 @@ body:
   id: references
   attributes:
     label: "References"
-    description: "Add reference images, if available."
+    description: "Add reference images/files, if available."

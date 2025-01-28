@@ -1,1 +1,1 @@
-The workflow files in this directory do not affect anything in the organization. Workflows must be added to each repository individually. These files are maintained as starting points for developers setting up workflows in new repositories.
+The workflow files in this directory do not affect anything in the organization. Workflows must be added to each repository individually in the `.github/workflows/` directory. These files are maintained as starting points for developers setting up workflows in new repositories.

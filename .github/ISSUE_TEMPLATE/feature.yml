@@ -15,7 +15,7 @@ body:
     label: "Scope"
     description: "Provide some limitations so it's clear when this issue should be considered complete."
 - type: textarea
-  id: context
+  id: additional-context
   attributes:
     label: "Additional context"
     description: "Add any other context about the feature/changes here."

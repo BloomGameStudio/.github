@@ -1,7 +1,7 @@
 name: "🏗️ Task"
 description: "Task that needs to be completed"
 title: "[TASK] "
-type: "type"
+type: "task"
 body:
 - type: textarea
   id: description

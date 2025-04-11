@@ -1,4 +1,4 @@
-Contributor Confidential Information and Assignment Agreement
+## Contributor Confidential Information and Assignment Agreement
 
 This Contributor Confidential Information and Assignment Agreement (this "Agreement") outlines your confidentiality obligations and the terms under which intellectual property you create for Light Side Labs Ltd., a British Virgin Islands business company (the "Organization") is assigned to the Organization and applies to all contributions you make to the Organization.
 

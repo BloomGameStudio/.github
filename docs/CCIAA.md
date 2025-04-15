@@ -1,44 +1,114 @@
 ## Contributor Confidential Information and Assignment Agreement
 
-This Contributor Confidential Information and Assignment Agreement (this "Agreement") outlines your confidentiality obligations and the terms under which intellectual property you create for Light Side Labs Ltd., a British Virgin Islands business company (the "Organization") is assigned to the Organization and applies to all contributions you make to the Organization.
+This Contributor Confidential Information and Assignment Agreement (this **"Agreement"**) outlines your confidentiality obligations and the terms under which intellectual property you create for Light Side Labs Ltd., a British Virgin Islands business company (the **"Organization"**), is assigned to the Organization. It applies to all contributions you make to the Organization.
 
-1. Relationship
-This Agreement applies your relationship with the Organization. Any such relationship between the parties hereto, whether commenced prior to, upon or after the date of this Agreement, is referred to herein as the “Relationship.” During the Relationship, you will provide services to the Organization, including, but not limited to, marketing, technology development, and business development (the “Services”).
+---
 
-2. Confidentiality
-a. “Confidential Information” means information and physical material not generally known or available outside the Organization and information and physical material entrusted to the Organization in confidence by third parties. Confidential Information includes, without limitation: (i) Organization Inventions (as defined below); and (ii) technical data, trade secrets, know-how, research, product or service ideas or plans, software codes and designs, algorithms, developments, inventions, patent applications, laboratory notebooks, processes, formulas, techniques, biological materials, mask works, engineering designs and drawings, hardware configuration information, agreements with third parties, lists of, or information relating to, employees and consultants of the Organization (including, but not limited to, the names, contact information, jobs, compensation, and expertise of such employees and consultants), lists of, or information relating to, suppliers and customers (including, but not limited to, customers of the Organization on whom you called or with whom you became acquainted during the Relationship), price lists, pricing methodologies, cost data, market share data, marketing plans, licenses, contract information, business plans, financial forecasts, historical financial data, budgets or other business information disclosed to you by the Organization either directly or indirectly, whether in writing, electronically, orally, or by observation.
+### 1. Relationship
 
-b. You agree, at all times during the term of the Relationship and thereafter, to hold in strictest confidence, and not to use, except for the benefit of the Organization to the extent necessary to perform the Services, and not to disclose to any person, firm, corporation or other entity, without written authorization from the Organization in each instance, any Confidential Information that you obtain from the Organization or otherwise obtain, accesses or create in connection with, or as a result of, the Services during the term of the Relationship, whether or not during working hours, until such Confidential Information becomes publicly and widely known and made generally available through no wrongful act of yours or of others who were under confidentiality obligations as to the item or items involved. You further agree not to make copies of such Confidential Information except as authorized by the Organization.
+This Agreement applies to your relationship with the Organization. Any such relationship between the parties hereto, whether commenced prior to, upon, or after the date of this Agreement, is referred to herein as the **"Relationship."** During the Relationship, you will provide services to the Organization, including, but not limited to, marketing, technology development, and business development (the **"Services"**).
 
-3. Inventions
-a. “Inventions” means discoveries, developments, concepts, designs, ideas, know how, improvements, inventions, trade secrets and/or original works of authorship, whether or not patentable, copyrightable or otherwise legally protectable, in each case, including, but not limited to, any new product, machine, article of manufacture, biological material, method, procedure, process, technique, use, equipment, device, apparatus, system, compound, formulation, composition of matter, design or configuration of any kind, or any improvement thereon.
+---
 
-b. “Organization Inventions” means any and all Inventions that you or your personnel may solely or jointly author, discover, develop, conceive, or reduce to practice in connection with, or as a result of, the Services performed for the Organization, including, but not limited to, any Invention submitted by you to the Organization through any electronic, verbal, or written communication, such as, but not limited to, the submission of an Invention to any Github account owned by the Organization.
+### 2. Confidentiality
 
-c. You agree and you will promptly make full written disclosure to the Organization, will hold in trust for the sole right and benefit of the Organization, and hereby assign to the Organization, or its designee, all your right, title and interest throughout the world in and to any and all Organization Inventions and all patent, copyright, trademark, trade secret and other intellectual property rights therein. You hereby waive and irrevocably quitclaim to the Organization or its designee any and all claims, of any nature whatsoever, that you now have or may hereafter have for infringement of any and all Organization Inventions. Any assignment of Organization Inventions includes all rights of attribution, paternity, integrity, modification, disclosure and withdrawal, and any other rights throughout the world that may be known as or referred to as “moral rights,” “artist’s rights,” “droit moral,” or the like (collectively, “Moral Rights”). To the extent that Moral Rights cannot be assigned under applicable law, you hereby waive and agree not to enforce any and all Moral Rights, including, without limitation, any limitation on subsequent modification, to the extent permitted under applicable law.
+#### a. Definition
 
-d. If in the course of the Relationship, you use or incorporate into a product, service, process or machine any Invention not covered by Section 3(c) above in which you have an interest, you will promptly so inform the Organization in writing. Whether or not you give such notice, you hereby irrevocably grant to the Organization a nonexclusive, fully paid-up, royalty-free, assumable, perpetual, worldwide license, with right to transfer and to sublicense, to practice and exploit such Invention and to make, have made, copy, modify, make derivative works of, use, sell, import, and otherwise distribute such Invention under all applicable intellectual property laws without restriction of any kind.
+**"Confidential Information"** means information and physical material not generally known or available outside the Organization and information entrusted to the Organization in confidence by third parties. This includes, but is not limited to:
 
-4. Representations and Covenants
-a. You represent that your performance of all the terms of this Agreement does not and will not breach any agreement you have entered into, or will enter into, with any third party, including, but not limited to, any agreement to keep in confidence proprietary information or materials acquired by you in confidence or in trust prior to or during the Relationship.
+- Organization Inventions (as defined below)
+- Technical data, trade secrets, and know-how
+- Research, product/service ideas or plans
+- Software code and designs, algorithms, processes, formulas, techniques
+- Biological materials, hardware configuration information
+- Agreements with third parties
+- Information relating to employees, consultants, suppliers, and customers
+- Pricing data, market share data, marketing and business plans
+- Financial data, budgets, and forecasts
 
-b. You will not disclose to the Organization or use any inventions, confidential or non-public proprietary information or material belonging to any previous client, employer or any other party. 
+#### b. Obligations
 
-c. You will not induce the Organization to use any inventions, confidential or non-public proprietary information, or material belonging to any previous client, employer or any other party. You represent that you are legally entitled to make the above assignments and grant the above licenses. 
+You agree, during the term of the Relationship and thereafter:
 
-d. To the extent an Organization Invention includes work not originally created by you, you must ensure you have obtained all right, title and interest in such Organization Inventions or the necessary consents and permissions from the original creator(s) in order to make the assignments and/or grant the above licenses.
+- To hold Confidential Information in strictest confidence
+- Not to use it except for the benefit of the Organization
+- Not to disclose it without written authorization
+- Not to copy it unless authorized
 
-5. Disclaimer
-You are not required to provide support for your Contributions unless you choose to. You may provide support for free, for a fee, or not at all. Unless required by law or agreed in writing, Contributions are provided "AS IS," without warranties or conditions of any kind.
+---
 
-6. Consequential Damages Waiver
-Neither you nor the Organization shall be liable for any indirect, special, incidental, or consequential damages, including loss of profits, use, data, or similar damages, whether in contract, tort, or otherwise, even if advised of such damages.
+### 3. Inventions
 
-7. Source Code Management
-You agree to follow the Organization's contribution process and coding standards, which may include submitting patches via pull requests and adhering to code review protocols.
+#### a. Definition
 
-8. Miscellaneous
-The validity, interpretation, construction and performance of this Agreement, and all acts and transactions pursuant hereto and the rights and obligations of the parties hereto shall be governed, construed and interpreted in accordance with the laws of the British Virgin Islands, without giving effect to the principles of conflict of laws. This Agreement is the entire agreement between the parties, superseding all prior agreements. It may only be modified by a written instrument executed by both parties. If any term or provision of this Agreement is found by a court of competent jurisdiction to be invalid, illegal, or unenforceable, such invalidity, illegality, or unenforceability shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction. All notices, requests, consents, claims, demands, waivers, and other communications under this Agreement (each, a “Notice”) must be in writing and delivered by email; provided that all Notices to the Organization shall be sent to [insert email address]. No waiver by any party of any of the provisions of this Agreement shall be effective unless explicitly set forth in writing and signed by the party so waiving. Except as otherwise set forth in this Agreement, no failure to exercise, or delay in exercising, any right, remedy, power, or privilege arising from this Agreement shall operate or be construed as a waiver thereof, nor shall any single or partial exercise of any right, remedy, power, or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege. The terms and provisions of this Agreement are intended solely for the benefit of each party and their respective successors and assigns, and it is not the intention of the parties to confer, and no provision hereof shall confer, third-party beneficiary rights upon any other person. 
+**"Inventions"** means discoveries, developments, concepts, designs, ideas, know-how, improvements, trade secrets, and/or original works of authorship, whether or not legally protectable.
 
-9. Acceptance
-By providing the Services and/or expressly agreeing to this Agreement in writing or by clicking “I Agree” on any digital pop-up, whichever comes first, you agree to the terms of this Agreement.
+#### b. Organization Inventions
+
+**"Organization Inventions"** are any Inventions made solely or jointly by you in connection with the Services, including those submitted via any medium (e.g., GitHub).
+
+#### c. Assignment
+
+You agree to:
+
+- Promptly disclose and assign all Organization Inventions to the Organization
+- Waive and quitclaim any claims for infringement
+- Waive and not enforce any **Moral Rights**
+
+#### d. Use of Other Inventions
+
+If you incorporate your own pre-existing Invention:
+
+- You must inform the Organization in writing
+- You grant the Organization a **nonexclusive, royalty-free, perpetual, worldwide license** to use it
+
+---
+
+### 4. Representations and Covenants
+
+- You represent that your performance under this Agreement does not breach any prior agreements.
+- You will not disclose or use any confidential or proprietary information from previous parties.
+- You will not induce the Organization to use third-party proprietary material.
+- You must ensure you have rights or necessary permissions for any third-party contributions.
+
+---
+
+### 5. Disclaimer
+
+You are not obligated to provide support for your Contributions. If you choose to, it may be free, paid, or none at all. Unless required by law or agreed in writing, Contributions are provided **"AS IS"** without any warranties.
+
+---
+
+### 6. Consequential Damages Waiver
+
+Neither you nor the Organization shall be liable for any indirect, special, incidental, or consequential damages (e.g., loss of profits, data), even if advised of the possibility.
+
+---
+
+### 7. Source Code Management
+
+You agree to follow the Organization’s contribution and code review standards, including submitting patches via pull requests.
+
+---
+
+### 8. Miscellaneous
+
+- This Agreement is governed by the laws of the **British Virgin Islands**.
+- It is the entire agreement and can only be modified in writing.
+- If any term is deemed unenforceable, the rest remains valid.
+- Notices to the Organization must be in writing and sent via email to **[insert email address]**.
+- No waiver is valid unless in writing.
+- No third-party beneficiaries are intended.
+  
+---
+
+### 9. Acceptance
+
+By providing the Services and/or:
+
+- Expressly agreeing in writing, or  
+- Clicking "I Agree" in any digital format  
+
+You agree to the terms of this Agreement.
+
+---

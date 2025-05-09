@@ -1,5 +1,5 @@
-name: "🏗️ Task"
-description: "Task that needs to be completed"
+name: "🏗️ No-Code Task"
+description: "Task that needs to be completed that does not involve code changes"
 title: "🏗️ "
 type: "task"
 body:

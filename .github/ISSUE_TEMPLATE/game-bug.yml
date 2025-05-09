@@ -1,5 +1,5 @@
-name: "🐛 Bug"
-description: "Report a bug or unexpected behavior"
+name: "🐛 Game Bug"
+description: "Report a bug or unexpected in-game behavior"
 title: "🐛 "
 type: "bug"
 labels: "bug"
@@ -23,6 +23,24 @@ body:
   attributes:
     label: "Steps to reproduce"
     description: "A series of steps, detailing how to reproduce the issue."
+- type: checkboxes
+  id: play-mode
+  attributes:
+    label: "Mode"
+    description: "Which mode did was the issue observed on?"
+    options:
+      - label: Editor
+      - label: Play
+      - label: Build
+- type: checkboxes
+  id: platform
+  attributes:
+    label: "Platform"
+    description: "Which platforms did you test on? Add specifics in \"Additional Content\""
+    options:
+      - label: Mac
+      - label: Windows
+      - label: Linux
 - type: textarea
   id: additional-context
   attributes:

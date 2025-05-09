@@ -1,6 +1,6 @@
 name: "🐛 Bug"
 description: "Report a bug or unexpected behavior"
-title: "[BUG] "
+title: "🐛 "
 type: "bug"
 labels: "bug"
 body:

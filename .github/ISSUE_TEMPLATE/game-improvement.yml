@@ -1,5 +1,6 @@
-name: "🦾 Feature"
-description: "Feature or improvement on existing functionality"
+name: "🎮 Game Improvement"
+description: "Feature or improvement on existing game functionality"
+title: "🎮 "
 type: "feature"
 body:
 - type: textarea
